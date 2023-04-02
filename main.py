@@ -1,4 +1,4 @@
-# Deniss Prusakovs 221RDB175
+# Deņiss Prusakovs 221RDB175
 
 class Query:
     def __init__(self, query):
